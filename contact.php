@@ -90,7 +90,7 @@ if (isset($_POST['submit'])) {
             <div class="info-box">
               <i class="bx bx-envelope"></i>
               <h3>Email Us</h3>
-              <p>aabubakarsidiqq@gmail.com<br>abubakarsidiq-cms@support.com</p>
+              <p>aabubakarsidiqq@gmail.com<br>abubakarsidiq-cms@abusidiqsupport.com</p>
             </div>
           </div>
           <div class="col-md-6">
