@@ -136,7 +136,7 @@
                     $comment_content = $row['comment_content'];
                     $comment_date = $row['comment_date'];
               ?>
-                <h4 class="comments-count"> <?php echo mysqli_num_rows($comment_display_result)?></h4>
+                <p class="comments-count"> <?php echo mysqli_num_rows($comment_display_result)?></p>
                 <div id="comment-1" class="comment">
                 <div class="d-flex">
                   <div class="comment-img"><img src="img/blog/comments-1.jpg" alt=""></div>

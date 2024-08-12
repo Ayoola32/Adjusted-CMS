@@ -55,7 +55,8 @@
 
         ?>
 
-        <img src="assets/img/blog/blog-recent-1.jpg" alt="">
+        <!-- <img src="assets/img/blog/blog-recent-1.jpg" alt="http://placehold.it/62x62"> -->
+        <img src="http://placehold.it/62x62">
         <h4><a href=""><?php echo $post_title?></a></h4>
         <time datetime="2020-01-01"><?php echo $formatted_date ?></time>
 
